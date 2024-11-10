@@ -1,0 +1,14 @@
+django==4.2.0
+python-dotenv
+black
+flake8
+isort
+pre-commit
+django-jazzmin
+djangorestframework
+drf-yasg
+psycopg2-binary
+djangorestframework-simplejwt
+django-ckeditor-5
+sentry-sdk==2.13.0
+setuptools
